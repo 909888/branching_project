@@ -1,0 +1,7 @@
+c:\users\student\source\repos\Branching project\Branching project\bin\Debug\Branching project.exe.config
+c:\users\student\source\repos\Branching project\Branching project\bin\Debug\Branching project.exe
+c:\users\student\source\repos\Branching project\Branching project\bin\Debug\Branching project.pdb
+c:\users\student\source\repos\Branching project\Branching project\obj\Debug\Branching project.csprojAssemblyReference.cache
+c:\users\student\source\repos\Branching project\Branching project\obj\Debug\Branching project.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\Branching project\Branching project\obj\Debug\Branching project.exe
+c:\users\student\source\repos\Branching project\Branching project\obj\Debug\Branching project.pdb
